@@ -1,5 +1,3 @@
-# DESAFIO DOCKER FULL CYCLE
-
 
 docker compose up -d para rodar
 
